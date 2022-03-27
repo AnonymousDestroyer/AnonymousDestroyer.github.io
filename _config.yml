@@ -43,8 +43,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "wyj1934966789@gmail.com"
-  qq: 1934966789
-  rss: false  # remove this line if you don't want to show an RSS link at the bottom
+#   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   facebook: 100028143518712
   github: AnonymousDestroyer
   twitter: YujinIsTop
