@@ -6,12 +6,12 @@ subtitle: Blob subtitle
 # gh-badge: [star, fork, follow]
 tags: [blog]
 comments: true
-cover-img: /assets/img/007/007.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/007/007.jpg
+cover-img: /assets/img/007/007-2.jpg
+# thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/007/007-2.jpg
 ---
 # Hi, all
-### This is my first blog. ~_~
+### This is my first blog.
 ![](https://raw.githubusercontent.com/AnonymousDestroyer/AnonymousDestroyer.github.io/master/assets/img/yujin_life.png)
 
 
