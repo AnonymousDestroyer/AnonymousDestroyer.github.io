@@ -6,9 +6,9 @@ subtitle: Blob subtitle
 # gh-badge: [star, fork, follow]
 tags: [blog]
 comments: true
-cover-img: /assets/img/007/007-2.jpg
-thumbnail-img: /assets/img/007/007-2.jpg
-share-img: /assets/img/007/007_1x1.jpg
+cover-img: /assets/img/007/007-3.jpg
+thumbnail-img: /assets/img/007/007_1x1.jpg
+share-img: /assets/img/007/007-3.jpg
 ---
 # Hi, all
 ### This is my first blog.
