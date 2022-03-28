@@ -9,5 +9,5 @@ comments: true
 ---
 # Hi, all
 ### This is my first blog. ~_~
-![Yujin](https://github.com/AnonymousDestroyer/AnonymousDestroyer.github.io/blob/master/assets/img/yujin_life.png)
+![](https://raw.githubusercontent.com/AnonymousDestroyer/AnonymousDestroyer.github.io/master/assets/img/yujin_life.png)
 
