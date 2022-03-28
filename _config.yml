@@ -17,8 +17,8 @@ navbar-links:
   About Me: "aboutme"
   Algorithm: "algorithm"
   Research:
-    - Paper: ""
-    - Competition: ""
+    - Paper: "paper"
+    - Competition: "competition"
   Author's home: ""
 
 # --- Logo --- #
