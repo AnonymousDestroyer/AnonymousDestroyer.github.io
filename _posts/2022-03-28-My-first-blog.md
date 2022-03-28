@@ -2,10 +2,10 @@
 layout: post
 title: My first blog
 subtitle: Blob subtitle
-gh-repo: AnonymousDestroyer/Yujin Wang
+gh-repo: AnonymousDestroyer/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [blog]
 comments: true
 ---
-
+# Hi, all
 ### This is my first blog. ~_~
