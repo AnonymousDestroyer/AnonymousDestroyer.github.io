@@ -8,7 +8,7 @@ tags: [blog]
 comments: true
 cover-img: /assets/img/007/007-2.jpg
 thumbnail-img: /assets/img/007/007-2.jpg
-share-img: /assets/img/007/007-2.jpg
+# share-img: /assets/img/007/007-2.jpg
 ---
 # Hi, all
 ### This is my first blog.
