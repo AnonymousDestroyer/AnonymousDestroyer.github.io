@@ -13,5 +13,3 @@ share-img: /assets/img/007/007-3.jpg
 # Hi, all
 ### This is my first blog.
 ![](https://raw.githubusercontent.com/AnonymousDestroyer/AnonymousDestroyer.github.io/master/assets/img/yujin_life.png)
-
-
