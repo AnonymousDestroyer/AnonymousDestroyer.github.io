@@ -4,10 +4,16 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
+![](https://raw.githubusercontent.com/AnonymousDestroyer/AnonymousDestroyer.github.io/master/assets/img/yujin_life.png)
+
 My name is Yujin Wang. I have the following qualities:
 
 - I rock a great mustache
-- I'm extremely loyal to my family
+- I'm extremely loyal to my girlfrind
+- I will get what I want
+- I enjoy the praise of others
+- I am a hardworking researcher
+- I like VANS (although the picture shows me wearing Levi's)
 
 What else do you need?
 
