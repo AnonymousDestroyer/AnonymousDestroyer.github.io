@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algorithm Leetcode
+title: Algorithm
 subtitle: Algorithm class
 comments: true
 cover-img: /assets/img/007/007-3.jpg
