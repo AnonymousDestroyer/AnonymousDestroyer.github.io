@@ -1,7 +1,7 @@
 ---
 layout: post
-title: I am tired
-subtitle: Each post also has a subtitle
+title: Algorithm Leetcode
+subtitle: Algorithm class
 comments: true
 cover-img: /assets/img/007/007-3.jpg
 thumbnail-img: ""
@@ -66,7 +66,7 @@ class Solution:
         return max_res
 ```
 
-
+## DFS
 
 ```python
 # DFS
@@ -160,8 +160,6 @@ class Solution:
         return res
 ```
 
-
-
 是否是平衡二叉树
 
 ```python
@@ -190,8 +188,6 @@ class Solution:
         return res
       
 ```
-
-
 
 是否是对称二叉树
 
@@ -275,7 +271,9 @@ class Trie:
 
 
 
-DP 打家劫舍
+## DP
+
+打家劫舍
 
 ```python
 class Solution:
@@ -305,7 +303,7 @@ class Solution:
 
 
 
-贪心
+## 贪心
 
 #### [2038. 如果相邻两个颜色均相同则删除当前颜色](https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)  
 
