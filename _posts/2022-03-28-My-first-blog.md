@@ -7,8 +7,9 @@ subtitle: Blob subtitle
 tags: [blog]
 comments: true
 cover-img: /assets/img/007/007-3.jpg
-thumbnail-img: /assets/img/007/007_1x1.jpg
-share-img: /assets/img/007/007-3.jpg
+# thumbnail-img: /assets/img/007/007_1x1.jpg
+thumbnail-img: ""
+# share-img: /assets/img/007/007-3.jpg
 ---
 # Hi, all
 ### This is my first blog.
