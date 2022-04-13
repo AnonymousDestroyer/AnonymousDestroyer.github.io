@@ -40,7 +40,9 @@ The ideas of leveraging prior experience and getting instructions have very dire
   "I think transfer learning is the key to general intelligence. And I think the key to doing transfer learning will be the acquisition of conceptual knowledge that is abstracted away from perceptual details of where you learned it from." - Demis Hassabis @demishassabis pic.twitter.com/oDQjvx4TLa
   ```
 
-> ![img1#pic_center](https://www.filepicker.io/api/file/9aJiI2KMS2q7PbVKfXmr?policy=eyJoYW5kbGUiOiI5YUppSTJLTVMycTdQYlZLZlhtciIsImV4cGlyeSI6MTY0OTg1ODg3OSwiY2FsbCI6WyJyZWFkIl19&signature=6acac16e9449a921519bface67540120b7e9080f5d85165b31b9589bfa3fbc9c)
+> ![]([https://www.filepicker.io/api/file/9aJiI2KMS2q7PbVKfXmr?policy=eyJoYW5kbGUiOiI5YUppSTJLTVMycTdQYlZLZlhtciIsImV4cGlyeSI6MTY0OTg1ODg3OSwiY2FsbCI6WyJyZWFkIl19&signature=6acac16e9449a921519bface67540120b7e9080f5d85165b31b9589bfa3fbc9c]#pic_center)
+
+
 
 ![Screen Shot 2022-04-09 at 5.30.48 AM#pic_center](../assets/img/:Users:langzi:Documents:GitHub:AnonymousDestroyer.github.io:assets:img:yujin_blog:Screen Shot 2022-04-09 at 5.30.48 AM.png)
 
