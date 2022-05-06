@@ -15,5 +15,4 @@ thumbnail-img: ""
 
 Hi，
 
-![Mechanical Images Retrieval](https://raw.githubusercontent.com/AnonymousDestroyer/AnonymousDestroyer.github.io/assets/img/yujin_blog/Mechanical Images Retrieval.png)
-
+![Mechanical Images Retrieval](https://raw.githubusercontent.com/AnonymousDestroyer/AnonymousDestroyer.github.io/master/assets/img/yujin_blog/Mechanical%20Images%20Retrieval.png)
