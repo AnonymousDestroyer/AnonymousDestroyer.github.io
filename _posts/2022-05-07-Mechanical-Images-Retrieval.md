@@ -11,10 +11,8 @@ thumbnail-img: ""
 
 ## Mechanical Images Retrieval
 
+##### An industrialized images search model based on CLIP model. The model can retrieve similar mechanical parts images among tens of thousands of industrial images.  
 
-
-Hi，
-
-![Mechanical Images Retrieval](https://raw.githubusercontent.com/AnonymousDestroyer/AnonymousDestroyer.github.io/master/assets/img/yujin_blog/Mechanical%20Images%20Retrieval.png)
+##### Other related technologies are Semantic UI and Django framework.
 
 ![test_image_search](https://raw.githubusercontent.com/AnonymousDestroyer/AnonymousDestroyer.github.io/master/assets/img/yujin_blog/test_image_search.gif)
