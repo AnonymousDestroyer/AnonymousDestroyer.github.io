@@ -17,4 +17,4 @@ Hi，
 
 ![Mechanical Images Retrieval](https://raw.githubusercontent.com/AnonymousDestroyer/AnonymousDestroyer.github.io/master/assets/img/yujin_blog/Mechanical%20Images%20Retrieval.png)
 
-![test_image_search](https://raw.githubusercontent.com/AnonymousDestroyer\AnonymousDestroyer.github.io\assets\img\yujin_blog\test_image_search.gif)
+![test_image_search](https://raw.githubusercontent.com/AnonymousDestroyer/AnonymousDestroyer.github.io/master/assets/img/yujin_blog/test_image_search.gif)
