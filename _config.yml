@@ -19,7 +19,7 @@ navbar-links:
   Research:
     - Paper: "paper"
     - Competition: "competition"
-  Author's home: ""
+  Author's home: "cv"
 
 # --- Logo --- #
 
